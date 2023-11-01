@@ -15,6 +15,8 @@ public class Demo_git {
      */
     public static void main(String[] args) {
         System.err.println("Demo git lỗi quài cay thế nhờ");
+                System.err.println("Demo git đã đc rồi hé hé");
+
     }
     
 }
